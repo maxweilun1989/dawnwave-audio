@@ -1,0 +1,38 @@
+# License scope
+
+This repository publishes the processed audio assets used by Dawnwave
+(https://github.com/maxweilun1989/dawnwave, private source repo).
+
+## bowl/*  (Tibetan singing bowl)
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+License text: LICENSES/CC-BY-SA-4.0.txt
+Canonical URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+Original work: "Tibetan Singing Bowl hit 11inch.flac"
+Author: דג בלי מלח (Wikimedia Commons user)
+Source: https://commons.wikimedia.org/
+Modifications by Dawnwave: trim, loop preparation, gradual-wake envelope,
+loudness normalisation, mono conversion, CAF/48 kHz rewrite.
+These derivative audio files are distributed under CC BY-SA 4.0.
+
+## piano/*  (equivalent piano note)
+
+SPDX-License-Identifier: CC-BY-2.5
+License text: LICENSES/CC-BY-2.5.txt
+Original work: "68448 pinkyfinger Piano G.ogg"
+Author: pinkyfinger (Freesound user)
+Source: https://freesound.org/people/pinkyfinger/sounds/68448/
+Modifications: trim, loop preparation, gradual-wake envelope, loudness
+normalisation, mono conversion, CAF/48 kHz rewrite.
+
+## birds/*, bell/*, rain-light, rain-heavy, fan, waves, stream, forest-night, wind
+
+Source: Mixkit (https://mixkit.co/free-sound-effects/), Mixkit License
+(free for commercial use, no attribution required, modification allowed).
+Listed here as a courtesy; see ATTRIBUTION.md for the per-asset mapping.
+
+## brown-noise
+
+Entirely synthesised by Dawnwave (periodic filtered noise). No third-party
+rights apply; released into this repository for reuse.
