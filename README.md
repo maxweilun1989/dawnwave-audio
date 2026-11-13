@@ -16,6 +16,10 @@ derivative audio file in the shipped app publicly available.
 
 All files: mono, 48 kHz, 16-bit CAF.
 
+## Original source for `bowl/*`
+
+https://commons.wikimedia.org/wiki/File:Tibetan_Singing_Bowl_hit_11inch.flac
+
 ## Licensing
 
 See [LICENSE](LICENSE) for the per-asset license map and

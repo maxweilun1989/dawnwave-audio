@@ -28,6 +28,7 @@ Mixkit License：免费商用、无需署名、可修改。
 ### bowl（bowl-ramp-* / bowl-steady）
 
 - 文件：Tibetan Singing Bowl hit 11inch.flac
+- 来源：https://commons.wikimedia.org/wiki/File:Tibetan_Singing_Bowl_hit_11inch.flac
 - 作者：דג בלי מלח (commons user)
 - 许可：**CC BY-SA 4.0** — https://creativecommons.org/licenses/by-sa/4.0
 - 注意 ShareAlike 条款：修改后的音频（本管线做了裁切/循环/包络）需以同协议发布衍生文件。
